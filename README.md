@@ -19,6 +19,11 @@ cd Project-2
 ```
 python -m venv .
 ```
+```
+cd Scripts
+activate
+cd ..
+```
 Then open terminal in the folder and run command to install required libraries
 ```
 pip install -r requirements.txt
