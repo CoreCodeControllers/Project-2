@@ -103,14 +103,14 @@ while True:
             print("Showing Pie Chart of Death Recovere and Active Ratio")
             pieAllDRARatio()
         case '2':
-            country = input("Enter Country Name")
+            country = input("Enter Country Name: ")
             print("Showing Pie Chart of Death Recovere and Active Ratio (Country)")
             pieDRARatio(country)
         case '3':
             print("Showing Bar Grapg of Death and Recovery out of 100s")
             barAllDROH()
         case '4':
-            country = input("Enter Country Name")
+            country = input("Enter Country Name: ")
             print("Showing Bar Grapg of Death and Recovery out of 100s (Country)")
             barDROH(country)
         case '5':
