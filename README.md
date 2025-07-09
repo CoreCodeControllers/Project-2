@@ -14,6 +14,10 @@ After installation clone the project on your system using :<br/>
 ```
 git clone https://github.com/CoreCodeControllers/Project-2/
 ```
+(Optional) Create a virtual environment for the project:
+```
+python -m venv Project
+```
 Then open terminal in the folder and run command to install required libraries
 ```
 pip install -r requirements.txt
